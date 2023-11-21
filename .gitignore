@@ -1,0 +1,20 @@
+.DS_Store
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Binaries
+bin/
+obj/
+
+# NuGet
+*.nupkg
+*.pdb
+*.dll
